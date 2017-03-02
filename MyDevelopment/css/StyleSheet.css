@@ -1,0 +1,61 @@
+﻿/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #333;
+}
+body {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+#main {
+  overflow:auto;
+  padding-bottom:150px; /* this needs to be bigger than footer height*/
+}
+
+/*
+ * Cover
+ */
+
+.cover {
+  padding: 0 1.5rem;
+}
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: bold;
+}
+
+/*
+ * Jumbotron
+ */
+
+.layout{
+    background-color: #333;
+    color: #fff;
+    text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+}
+
+/*
+ * Footer
+ */
+
+.mastfoot {
+  color: rgba(255,255,255,.5);
+}
+
+.footer {
+  position: relative;
+  margin-top: -75px; /* negative value of footer height */
+  height: 75px;
+  clear:both;
+  padding-top:20px;
+} 

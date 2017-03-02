@@ -52,7 +52,7 @@
     <Content Include="Home.html" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="css\StyleSheet.scss" />
+    <Content Include="css\StyleSheet.css" />
     <None Include="ext\boostrap\css\bootstrap-theme.css.map" />
     <None Include="ext\boostrap\css\bootstrap.css.map" />
     <None Include="ext\boostrap\fonts\glyphicons-halflings-regular.eot" />
