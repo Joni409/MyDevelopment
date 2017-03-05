@@ -50,6 +50,9 @@
     <Content Include="ext\boostrap\js\npm.js" />
     <Content Include="ext\jquery-3.1.1.min.js" />
     <Content Include="Home.html" />
+    <Content Include="img\Logo.png" />
+    <Content Include="img\My Development Logo ohne Schatten.png" />
+    <Content Include="img\My Development Logo Schatten.png" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\StyleSheet.css" />
